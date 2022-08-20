@@ -1,0 +1,11 @@
+requests
+pandas
+pubnub
+tornado
+matplotlib
+hyperopt
+urllib3
+numpy
+six
+websocket-client
+networkx==1.11
